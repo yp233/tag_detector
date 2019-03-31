@@ -1,0 +1,2 @@
+tag_detector
+-DCATKIN_DEVEL_PREFIX=/home/yp/tag_detector/devel -DCMAKE_INSTALL_PREFIX=/home/yp/tag_detector/install -G Unix Makefiles

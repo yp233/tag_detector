@@ -1,0 +1,4 @@
+int32 size1
+int32 size2
+---
+bool isSetOK

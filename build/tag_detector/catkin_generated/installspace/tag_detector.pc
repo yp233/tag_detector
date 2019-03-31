@@ -1,0 +1,8 @@
+prefix=/home/yp/tag_detector/install
+
+Name: tag_detector
+Description: Description of tag_detector
+Version: 0.0.0
+Cflags: -I/home/yp/tag_detector/install/include
+Libs: -L/home/yp/tag_detector/install/lib 
+Requires: message_runtime
